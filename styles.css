@@ -1,0 +1,62 @@
+/*
+{}*/
+
+body {
+  margin: 0;
+}
+
+.box {
+  width: 500px;
+  height: 500px;
+  border: 2px dotted black;
+  background-color: blueviolet;
+  margin: auto;
+  display: block;
+}
+
+
+#red-box {
+  background-color: red;
+}
+
+#blue-box {
+  background-color: blue;
+  width: 250px;
+  height: 250px;
+  margin: 25%;
+}
+
+.box2 {
+  width: 500px;
+  height: 500px;
+  border: 2px dotted black;
+  background-color: blueviolet;
+  margin: auto;
+  display: block;
+}
+
+#red-box2 {
+  background-color: red;
+  text-align: center;
+}
+
+#blue-box2 {
+  background-color: blue;
+  width: 50%;
+  height: 50%;
+  position: relative;
+  top: 25%;
+  border-radius: 50%;
+}
+
+#red-box3 {
+  background-color: red;
+}
+
+#blue-box3 {
+  background-color: blue;
+  width: 50%;
+  height: 50%;
+  border-radius: 50%;
+  margin: 25%;
+}
